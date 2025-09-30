@@ -1,1 +1,1 @@
-# Sch-ma-cha-ne-de-puissance-SI
+# Schéma-chaîne-de-puissance-SI
